@@ -1,1 +1,1 @@
-# StardewAnimationCancelScript
+# Stardew Animation Cancel Script
