@@ -15,7 +15,7 @@ GameInput(keys*)
     }
 
     Send downtext
-    FrameSleep(12)
+    FrameSleep(15)
     Send uptext
 }
 
